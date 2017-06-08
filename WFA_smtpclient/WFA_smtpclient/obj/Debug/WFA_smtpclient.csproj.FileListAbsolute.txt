@@ -1,0 +1,24 @@
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\bin\Debug\WFA_smtpclient.exe
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\bin\Debug\WFA_smtpclient.pdb
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.Form1.resources
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.Properties.Resources.resources
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.csproj.GenerateResource.Cache
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.exe
+C:\Users\THINK\Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\bin\Debug\WFA_smtpclient.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\bin\Debug\WFA_smtpclient.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.pdb
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.exe
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.pdb
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\bin\Debug\WFA_smtpclient.exe
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\bin\Debug\WFA_smtpclient.pdb
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.csprojResolveAssemblyReference.cache
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.Form1.resources
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.Properties.Resources.resources
+F:\新建文件夹\smtpclinet\WFA_smtpclient\WFA_smtpclient\obj\Debug\WFA_smtpclient.csproj.GenerateResource.Cache
